@@ -1,0 +1,14 @@
+[2022/03/30 11:58:22] ******** PHySpec SDK 1.2.4 : PLog configured and started ********
+[2022/03/30 12:01:44] ******** PHySpec SDK 1.2.4 : PLog configured and started ********
+[2022/03/30 12:03:51] ******** PHySpec SDK 1.2.4 : PLog configured and started ********
+[2022/03/30 12:06:42] WRN - Failure to set filter wavelength|319|.\PeProxyFilter.cpp
+[2022/03/30 16:10:14] ******** PHySpec SDK 1.2.4 : PLog configured and started ********
+[2022/03/30 16:42:19] ******** PHySpec SDK 1.2.4 : PLog configured and started ********
+[2022/03/31 10:34:47] DBG - Filter failure to open M000010157 [-2: filter communication failure]|87|.\PeProxyFilter.cpp
+[2022/03/31 17:16:48] DBG - Filter failure to open M000010157 [-2: filter communication failure]|87|.\PeProxyFilter.cpp
+[2022/03/31 17:18:52] DBG - Filter failure to open M000010157 [-2: filter communication failure]|87|.\PeProxyFilter.cpp
+[2022/04/01 10:54:30] DBG - Filter failure to open M000010157 [-2: filter communication failure]|87|.\PeProxyFilter.cpp
+[2022/04/01 11:50:06] DBG - Filter failure to open M000010157 [-2: filter communication failure]|87|.\PeProxyFilter.cpp
+[2022/04/01 11:51:11] DBG - Filter failure to open M000010157 [-2: filter communication failure]|87|.\PeProxyFilter.cpp
+[2022/04/01 11:52:19] DBG - Filter failure to open M000010157 [-2: filter communication failure]|87|.\PeProxyFilter.cpp
+[2022/04/01 12:04:00] ******** PHySpec SDK 1.2.4 : PLog configured and started ********
